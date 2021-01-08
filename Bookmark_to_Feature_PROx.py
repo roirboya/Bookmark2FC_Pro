@@ -1,4 +1,3 @@
-# c@ Houston Engineering Inc, 2021. a@ nirby
 # ----------------------------------------------------------------------------
 # Import modules
 import arcpy, os, csv
